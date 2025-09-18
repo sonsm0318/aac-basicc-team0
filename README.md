@@ -1,1 +1,1 @@
-# why-rule-doesnt-work
+Test repository for school club
