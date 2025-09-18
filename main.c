@@ -1,9 +1,10 @@
+#define ARRAY_LEN 10
+
 #include <stdio.h>
 
 int main(void)
 {
-  int N;
-  scanf("%d", &N);
+  int array[ARRAY_LEN];
 
-  return 0;
+  return 0; 
 }
