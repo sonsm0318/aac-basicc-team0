@@ -2,5 +2,7 @@
 
 int main(void)
 {
+  int N;
+  
   return 0;
 }
